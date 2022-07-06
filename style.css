@@ -55,9 +55,10 @@ a{
 
 .grid__link-desc{
     position: absolute;
-    bottom: 1rem;
-    left: 1rem;
+    bottom: 0;
+    left: 0;
     z-index: 1;
+    padding: 1rem;
 }
 
 .grid__link-title{
